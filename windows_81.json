@@ -78,7 +78,7 @@
         "./scripts/enable-rdp.bat",
         "./scripts/compile-dotnet-assemblies.bat",
         "./scripts/compact.bat",
-        "./scripts/chocolately.bat",
+        "./scripts/chocolatey.bat",
         "./scripts/chocopacks.bat"
       ]
     },
